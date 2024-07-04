@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(149, 127, 99);
+}
+div{
+    text-align: center;
+    margin-top: 50px;
+}
+a{
+    padding: 0px 50px;
+    color: black;
+    font-size: 26px;
+    transition: color 2s  ;
+    transition: background-color 1s;
+    background-color: rgb(149, 127, 99);
+}
+a:hover{
+    color:  rgb(149, 127, 99);
+    background-color: black;
+
+}
+span{
+    font-size: 24px;
+}
+h1{
+    text-align: center;
+    margin-top: 60px;
+}
+p{
+    margin-top: 20px;
+    text-align: justify;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
